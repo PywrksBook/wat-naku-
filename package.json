@@ -1,0 +1,24 @@
+{
+  "name": "wat-naku-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/server.js",
+  "engines": {
+    "node": ">=24.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PywrksBook/wat-naku-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/PywrksBook/wat-naku-/issues"
+  },
+  "homepage": "https://github.com/PywrksBook/wat-naku-#readme"
+}
