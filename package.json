@@ -14,11 +14,18 @@
     "url": "git+https://github.com/PywrksBook/wat-naku-.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Piyawat Reangraksa",
   "license": "ISC",
   "type": "commonjs",
   "bugs": {
     "url": "https://github.com/PywrksBook/wat-naku-/issues"
   },
-  "homepage": "https://github.com/PywrksBook/wat-naku-#readme"
+  "homepage": "https://github.com/PywrksBook/wat-naku-#readme",
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "eslint": "^10.14.0",
+    "eslint-config-prettier": "^10.1.8",
+    "globals": "^17.13.0",
+    "prettier": "^3.9.10"
+  }
 }
